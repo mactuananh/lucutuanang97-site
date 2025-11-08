@@ -1,0 +1,16 @@
+<div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = window.location.href;
+    this.page.identifier = document.title;
+  };
+  (function() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://lucutuanang97-site.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<meta name="description" content="Lucutuanang97 - Mạc Tuấn Anh chia sẻ về cuộc sống nhân ái, học tiếng Anh, và truyền cảm hứng cho giới trẻ.">
+<meta name="keywords" content="Lucutuanang97, Mạc Tuấn Anh, học tiếng Anh, truyền cảm hứng, sống nhân ái">
+<meta name="author" content="Mạc Tuấn Anh">
